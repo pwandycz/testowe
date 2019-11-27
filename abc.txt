@@ -1,3 +1,5 @@
 total 1
 -rw-r--r-- 1 pawel 197609 0 Nov 27 20:34 abc.txt
 -rw-r--r-- 1 pawel 197609 9 Nov 27 20:31 README.md
+
+dodalem jakis dziwny komentarz
